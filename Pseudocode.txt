@@ -1,0 +1,19 @@
+1. Start
+2. Display Menu:
+2. Show the user a menu with options for addition, subtraction, multiplication, division, and exiting.
+3. Ask the user to choose an operation (1-5).
+4.Ensure the user's choice is valid (between 1 and 5).
+5. If the user chooses to exit (5), print a goodbye message and end the program.
+6. If the user chooses an operation (1-4), proceed to the next steps.
+7. Prompt the user to enter two numerical values.
+8. If non-numerical values are entered, ask the user to input numerical values.
+9. If numerical values are entered proceed to the next steps.
+10. Execute the selected operation (addition, subtraction, multiplication, or division).
+12. If choice is 4 and If the user attempts to divide by zero, print an error message.
+11. Print the result of the operation.
+12. Go back to the menu and repeat the process if the user hasn't chosen to exit.
+13. If the user enters an invalid choice, print an error message.
+14. Continue looping through the menu and operations until the user chooses to exit.
+15. End
+
+
